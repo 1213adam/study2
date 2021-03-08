@@ -1,6 +1,16 @@
 master creataed
 master1
 master2
+<<<<<<< HEAD
 (dev) develop1
 develop2
 develop3
+=======
+crate develop 
+master3
+master4
+tag a" develo' tag for master
+master5
+master6
+master7
+bugfix1
